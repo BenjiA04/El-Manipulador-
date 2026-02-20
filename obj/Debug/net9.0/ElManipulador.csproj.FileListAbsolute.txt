@@ -1,0 +1,14 @@
+C:\Users\Benjamin\Desktop\ITLA Cursos\C# Basico\Proyectos\ElManipulador\bin\Debug\net9.0\ElManipulador.exe
+C:\Users\Benjamin\Desktop\ITLA Cursos\C# Basico\Proyectos\ElManipulador\bin\Debug\net9.0\ElManipulador.deps.json
+C:\Users\Benjamin\Desktop\ITLA Cursos\C# Basico\Proyectos\ElManipulador\bin\Debug\net9.0\ElManipulador.runtimeconfig.json
+C:\Users\Benjamin\Desktop\ITLA Cursos\C# Basico\Proyectos\ElManipulador\bin\Debug\net9.0\ElManipulador.dll
+C:\Users\Benjamin\Desktop\ITLA Cursos\C# Basico\Proyectos\ElManipulador\bin\Debug\net9.0\ElManipulador.pdb
+C:\Users\Benjamin\Desktop\ITLA Cursos\C# Basico\Proyectos\ElManipulador\obj\Debug\net9.0\ElManipulador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benjamin\Desktop\ITLA Cursos\C# Basico\Proyectos\ElManipulador\obj\Debug\net9.0\ElManipulador.AssemblyInfoInputs.cache
+C:\Users\Benjamin\Desktop\ITLA Cursos\C# Basico\Proyectos\ElManipulador\obj\Debug\net9.0\ElManipulador.AssemblyInfo.cs
+C:\Users\Benjamin\Desktop\ITLA Cursos\C# Basico\Proyectos\ElManipulador\obj\Debug\net9.0\ElManipulador.csproj.CoreCompileInputs.cache
+C:\Users\Benjamin\Desktop\ITLA Cursos\C# Basico\Proyectos\ElManipulador\obj\Debug\net9.0\ElManipulador.dll
+C:\Users\Benjamin\Desktop\ITLA Cursos\C# Basico\Proyectos\ElManipulador\obj\Debug\net9.0\refint\ElManipulador.dll
+C:\Users\Benjamin\Desktop\ITLA Cursos\C# Basico\Proyectos\ElManipulador\obj\Debug\net9.0\ElManipulador.pdb
+C:\Users\Benjamin\Desktop\ITLA Cursos\C# Basico\Proyectos\ElManipulador\obj\Debug\net9.0\ElManipulador.genruntimeconfig.cache
+C:\Users\Benjamin\Desktop\ITLA Cursos\C# Basico\Proyectos\ElManipulador\obj\Debug\net9.0\ref\ElManipulador.dll
