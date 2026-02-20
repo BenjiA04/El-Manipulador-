@@ -1,6 +1,8 @@
 # El Manipulador 🕵️‍♂️
-
 Este proyecto fue desarrollado en C# utilizando una estructura modular compuesta por dos archivos principales:
+
+
+## 📌 Descripción
 
 ### Program.cs → Contiene el método Main, encargado de la interacción con el usuario.
 ### Un archivo adicional (por ejemplo Funciones.cs) → Contiene las funciones auxiliares donde se desarrolla la lógica de cada ejercicio.
